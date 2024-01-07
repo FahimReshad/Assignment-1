@@ -1,0 +1,212 @@
+body{
+margin: 0;
+/* max-width: 1920px; */
+/* padding: 50px 140px 120px 140px; */
+}
+/* Heading styles part  */
+.banner-background{
+    background-image: url('../resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+   /* background-size: 80%; */
+    height: 700px;
+    text-align: center;
+    justify-items: center;
+}
+.banner{
+    padding: 170px 650px;
+    color: cadetblue;
+    font-family: Merriweather;
+font-size: 32px;
+font-weight: 500;
+}
+.offer{
+    text-align: center;
+    /* margin-top: 2px; */
+}
+.offer-header{
+    margin-bottom: 40px;
+    color: #F00;
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+}
+.offer-description{
+    /* margin-top: 0; */
+    margin-bottom: 5px;
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.offer-categories{
+margin-top: 0;
+    color: #070211;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+}
+.party{ 
+    margin-top: 120px;
+    background-image: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-position: center;
+   /* background-size: 80%; */
+    height: 700px;
+    text-align: center;
+    justify-items: center;
+}
+.party-container{
+    display: flex;
+    /* padding: 120px 350px; */
+    padding-top: 120px;
+    gap: 80px;
+    text-align: left;
+    align-content: space-around;  
+    justify-content: center;
+}
+.party-container-header{
+    color: #fff;
+    margin-bottom: 5px;
+font-family: Merriweather;
+width: 700px;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px; 
+letter-spacing: 7.04px;
+}
+.party-container-description{
+    margin-top: 0px;
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+width: 697px;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.party-join{
+    color: #FFF;
+text-align: left;
+padding-left: 50px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+}
+.event-schedule{ 
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    height: 200px;
+    margin: 100px 290px;
+     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+}
+.event-timing{
+    color: #F00;
+}
+.join-button{
+    border-radius: 8px;
+background: #F00;
+padding: 16px 32px;
+}
+.coming-soon{
+    display: flex;justify-content: center;
+    gap:70px ;
+    margin: 300px 350px 50px 350px;
+}
+.coming-soon-offer{
+    margin-top: 120px;
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-bottom: 2px;
+}
+.coming-soon-head{
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+margin-top: 0px;
+margin-bottom:5px;
+}
+.coming-soon-des{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+width: 393px; 
+}
+.coming-soon-img{
+    border-radius: 463px;
+border: 15px solid #F00;
+width: 463px;
+height: 463px;
+}
+.coming-soon-date{
+    margin-top: 130px;
+    color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+}
+.coming-soon-des{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+width: 276px; 
+}
+.sale{
+    text-align: center;   
+}
+.sale-fun{
+    margin-top: 120px;
+    margin-bottom: 20px;
+    color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+
+}
+.sale-percentage{
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+}
+.sale-holi{
+    color: #F00;
+}
+.sale-des{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px; 
+padding: 0 520px;
+}
+.sale-img{
+    display: flex;
+    margin: 100px 0 0 160px;
+    gap: 240px;
+    background-image: url('../resources/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: 150px 433px;
+}
+.sale-img2{
+    width: 429px;
+height: 450px;
+flex-shrink: 0;
+border-radius: 16px 16px 0px 0px;
+}
+.sale-img1{
+    gap:30px ;
+  margin: 100px -800px;
+    width: 206.841px;
+height: 206.841px;
+}
