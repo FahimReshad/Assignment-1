@@ -137,6 +137,7 @@ font-weight: 700;
 .coming-soon-img{
     border-radius: 463px;
     border: 15px solid #F00;
+    padding: 20px 20px;
      width: 463px;
     height: 463px;
 }
